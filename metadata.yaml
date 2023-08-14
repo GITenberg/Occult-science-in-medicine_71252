@@ -1,0 +1,35 @@
+_repo: Occult-science-in-medicine_71252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartmann, Franz
+    alias: Hartmann, F. (Franz)
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '48908'
+    url: http://www.gutenberg.org/2009/agents/48908
+    wikipedia: https://fi.wikipedia.org/wiki/Franz_Hartmann
+description: ''
+gutenberg_issued: '2023-07-22'
+identifiers:
+  gutenberg: '71252'
+language: en
+pgterms:marc904: https://archive.org/details/occultscienceinm00hart/page/n3/mode/2up
+pgterms:marc905: 20200708020633hartmann
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: Tim Lindell, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bTheosophical Publishing Society, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism'
+- !lcsh 'Medicine, Magic, mystic, and spagiric'
+- !lcc 'BF'
+- !lcc 'R'
+- GITenberg
+title: Occult science in medicine
+url: http://www.gutenberg.org/ebooks/71252
